@@ -25,7 +25,21 @@
     }
   ],
    "More": [
-    
+     
+   ],
+  "Categories": [
+    {
+      "name_category": "Kaffah Official",
+      "image": "file:///android_asset/image/kaffah.jpg"
+    },
+    {
+      "name_category": "Qawiyyun Media",
+      "image": "file:///android_asset/image/qawiyyun.jpg"
+    },
+    {
+      "name_category": "Ferry Chanel",
+      "image": "file:///android_asset/image/ferry.jpg"
+    }
   ],
   "Video": [
     {
