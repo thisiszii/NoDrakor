@@ -1,0 +1,167 @@
+ { "Ads": [
+    {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+     {
+       "id": 1,
+       "title": "IQ Test vs The Moron Test",
+       "image": "https://play-lh.googleusercontent.com/XhugYTsJV_xevG_g4fSAXDyNHCRGyVqklvdOriC6pkIxVcEWJZ1g3uCbcR1ScmCvSOpu=w1920-h980-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+     },
+     {
+       "id": 2,
+       "title": "Skins Editor for Minecraft PE",
+       "image": "https://play-lh.googleusercontent.com/mUCGBMUQZ6_bJsFkMkAx2YRY2zKMrJXQ12bWuU5CJ1wYKO-vdfdC_Mz8VV3wtlyrcg=w720-h310-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+     },
+     {
+       "id": 3,
+       "title": "Nova Skin for Minecraft PE",
+       "image": "https://play-lh.googleusercontent.com/_bXWahT6FDAZejwWL9R3VIN4WZ9eY7Bk71XqNrx7Bwcwn2Ax77KZBy2vr5WXoCsuWt0=w720-h310-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+     },
+     {
+       "id": 4,
+       "title": "Scanner Document App - HD PDF",
+       "image": "https://play-lh.googleusercontent.com/Uh5lv2eS1CNxGIHFwGDwFLVR8WTmBpUCCeSPlfWriVKA4JmySZQfitP3x92OFN6zjg=w1920-h980-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+     },
+     {
+       "id": 6,
+       "title": "Super Math Solver Calculator",
+       "image": "https://play-lh.googleusercontent.com/aF99IWhmI_z6Et4XvjPlWMbdy2g0RVKQ7goEMgD8i-XbGyw_ZR6STxQ9y_zmdCVjq7g=w1920-h980-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+     },
+     {
+       "id": 8,
+       "title": "Twibbon Maker",
+       "image": "https://play-lh.googleusercontent.com/gecardC2lsIKZC00C7UW4tb1sUEXCdsNs5mcz7_g6DJ0Y_2hzWm8sOECQyd_hMd_k64=w1920-h980-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+     },
+     {
+       "id": 9,
+       "title": "Kamus Bahasa Indonesia",
+       "image": "https://play-lh.googleusercontent.com/BFfyUgHv47RGMmlNJu-7VxVwQ1tiaacRT00ZlzL1clSTgHaYYXNnnm22n1F0QTkMIko=w1920-h980-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+     },
+     {
+       "id": 10,
+       "title": "Data Gempabumi Terbuka",
+       "image": "https://play-lh.googleusercontent.com/FpdydcBkDLqOMHfYi8ORfjqQaZHOfBELAyH9AAZgHOah_FpOZdrSMOlaT0jz-KgzRx0=w1920-h980-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+     },
+     {
+       "id": 11,
+       "title": "Ayo Shalat",
+       "image": "https://play-lh.googleusercontent.com/3IM72AsKuO4DUbgkrB1MRRExSic7PIEZiEbTBllPNDvK9MYlufQvfgjT7Jsbm324qg=w1920-h980-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.ayosholat"
+     }
+   ],
+  "Categories": [
+    {
+      "name_category": "Kaffah Official",
+      "image": "file:///android_asset/image/kaffah.jpg"
+    },
+    {
+      "name_category": "Qawiyyun Media",
+      "image": "file:///android_asset/image/qawiyyun.jpg"
+    },
+    {
+      "name_category": "Ferry Chanel",
+      "image": "file:///android_asset/image/ferry.jpg"
+    }
+  ],
+  "Video": [
+    {
+      "id": 1,
+      "name_category": "Kaffah Official",
+      "title": "Bumi Syam : Tanah Para Nabi",
+      "image": "file:///android_asset/image/syam.jpg",
+      "link_video": "https:/aliendro.id/projek/alien2.mp4",
+      "description": "Contoh Video 1 : Video di unggah ke hosting pribadi dengan format *.mp4, support berbagai ektensi video"
+    },
+    {
+      "id": 2,
+      "name_category": "Kaffah Official",
+      "title": "Tiupan Sangsakala Hari Kiamat",
+      "image": "file:///android_asset/image/sangsakala.jpg",
+      "link_video": "https://ia601509.us.archive.org/31/items/alien2_202203/alien.mp4",
+      "description": "Contoh Video 2 : Video di unggah ke archive.org dengan format *.mp4, support berbagai ektensi video"
+    }
+  ,
+    {
+      "id": 3,
+      "name_category": "Kaffah Official",
+      "title": "Kisah Turunnya Kitab Taurat",
+      "image": "https:/aliendro.id/uploads/demo/videoonline/taurat.jpg",
+      "link_video": "https:/aliendro.id/projek/alien2.mp4",
+      "description": "Contoh Video 3 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+    }
+    ,
+    {
+      "id": 4,
+      "name_category": "Kaffah Official",
+      "title": "Runtuhnya Israel Di Akhir Zaman",
+      "image": "file:///android_asset/image/israel.jpg",
+      "link_video": "https:/aliendro.id/projek/alien.mp4",
+      "description": "Contoh Video 4 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "Kaffah Official",
+      "title": "Sejarah Perang Khandak",
+      "image": "file:///android_asset/image/khandak.jpg",
+      "link_video": "https:/aliendro.id/projek/alien2.mp4",
+      "description": "Contoh Video 5 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "Kaffah Official",
+      "title": "Sejarah Perang Ain Zalut",
+      "image": "file:///android_asset/image/zalut.jpg",
+      "link_video": "https:/aliendro.id/projek/alien.mp4",
+      "description": "Contoh Video 6 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+    } ,
+    {
+      "id": 7,
+      "name_category": "Ferry Chanel",
+      "title": "Kisah Imam Malik",
+      "image": "https://img.youtube.com/vi/LMfGloeVWTE/maxresdefault.jpg",
+      "link_video": "https:/aliendro.id/projek/alien.mp4",
+      "description": "Contoh Video 7 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+    },
+    {
+      "id": 8,
+      "name_category": "Ferry Chanel",
+      "title": "Alam Malaikat",
+      "image": "https://img.youtube.com/vi/-RFS6z52LgY/maxresdefault.jpg",
+      "link_video": "https:/aliendro.id/projek/alien.mp4",
+      "description": "Contoh Video 8 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+    }
+  ]
+}
