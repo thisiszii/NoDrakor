@@ -1,19 +1,19 @@
  { "Ads": [
     {
-     "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"1",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -29,86 +29,28 @@
    ],
   "Categories": [
     {
-      "name_category": "Kaffah Official",
-      "image": "file:///android_asset/image/kaffah.jpg"
-    },
-    {
-      "name_category": "Qawiyyun Media",
-      "image": "file:///android_asset/image/qawiyyun.jpg"
-    },
-    {
-      "name_category": "Ferry Chanel",
-      "image": "file:///android_asset/image/ferry.jpg"
+      "name_category": "Reborn Rich",
+      "image": "https://www.viu.com/ott/id/articles/wp-content/uploads/2022/10/song-joong-ki-poster-reborn-rich-sub-indo-viu.jpg"
     }
+	
+	
   ],
   "Video": [
     {
       "id": 1,
-      "name_category": "Kaffah Official",
-      "title": "Bumi Syam : Tanah Para Nabi",
-      "image": "file:///android_asset/image/syam.jpg",
-      "link_video": "https://vxwhkg0fyy.akamai-user-content.net/d/dwzciei4o7hvw4m6xgxnb7kcyidpanpoym5nip3shqw65gpsbaoxa6bllpduaogl4brbvyha/video.mp4",
-      "description": "Contoh Video 1 : Video di unggah ke hosting pribadi dengan format *.mp4, support berbagai ektensi video"
+      "name_category": "Reborn Rich",
+      "title": "Reborn Rich Episode 1",
+      "image": "https://www.viu.com/ott/id/articles/wp-content/uploads/2022/10/song-joong-ki-poster-reborn-rich-sub-indo-viu.jpg",
+      "link_video": "https://kangmediadev.com/nodrakorindo/Reborn%20Rich%20Episode%201-540p.mp4",
+      "description": "Ketua Grup Soonyang tiba-tiba pingsan, dan keluarganya segera mencari kesempatan untuk mengambil posisi tersebut. Hyeon Woo menemukan perusahaan kertas yang telah menciptakan dana gelap untuk Soonyang dan dikirim dalam misi untuk mengambilnya kembali."
     },
     {
       "id": 2,
-      "name_category": "Kaffah Official",
-      "title": "Tiupan Sangsakala Hari Kiamat",
-      "image": "file:///android_asset/image/sangsakala.jpg",
-      "link_video": "https://s8download.krakenfiles.com/force-download/ZTQ1MjVhYzYxZWMwMDBiOBrKViHUCX116vKUcPugZ3q9TQ5ctoFPv92f-6-g_Em3/ne2R3xzQhm",
-      "description": "Contoh Video 2 : Video di unggah ke archive.org dengan format *.mp4, support berbagai ektensi video"
-    }
-  ,
-    {
-      "id": 3,
-      "name_category": "Kaffah Official",
-      "title": "Kisah Turunnya Kitab Taurat",
-      "image": "https:/aliendro.id/uploads/demo/videoonline/taurat.jpg",
-      "link_video": "https://krakenfiles.com/embed-video/6cJb5dK1zT",
-      "description": "Contoh Video 3 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    }
-    ,
-    {
-      "id": 4,
-      "name_category": "Kaffah Official",
-      "title": "Runtuhnya Israel Di Akhir Zaman",
-      "image": "file:///android_asset/image/israel.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 4 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    }
-  ,
-    {
-      "id": 5,
-      "name_category": "Kaffah Official",
-      "title": "Sejarah Perang Khandak",
-      "image": "file:///android_asset/image/khandak.jpg",
-      "link_video": "https:/aliendro.id/projek/alien2.mp4",
-      "description": "Contoh Video 5 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    }
-  ,
-    {
-      "id": 6,
-      "name_category": "Kaffah Official",
-      "title": "Sejarah Perang Ain Zalut",
-      "image": "file:///android_asset/image/zalut.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 6 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    } ,
-    {
-      "id": 7,
-      "name_category": "Ferry Chanel",
-      "title": "Kisah Imam Malik",
-      "image": "https://img.youtube.com/vi/LMfGloeVWTE/maxresdefault.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 7 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    },
-    {
-      "id": 8,
-      "name_category": "Ferry Chanel",
-      "title": "Alam Malaikat",
-      "image": "https://img.youtube.com/vi/-RFS6z52LgY/maxresdefault.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 8 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+      "name_category": "Reborn Rich",
+      "title": "Reborn Rich Episode 2",
+      "image": "https://www.viu.com/ott/id/articles/wp-content/uploads/2022/10/song-joong-ki-poster-reborn-rich-sub-indo-viu.jpg",
+      "link_video": "https://kangmediadev.com/nodrakorindo/Reborn%20Rich%20Episode%201-540p.mp4",
+      "description": "Hyeon Woo menyadari bahwa dia terlahir kembali sebagai cucu bungsu dari keluarga Soonyang, Jin Do Joon. Saat dia datang dari masa depan, dia memberikan nasihat yang berguna kepada Ketua Jin Yang Cheol, yang kini menjadi kakeknya."
     }
   ]
 }
